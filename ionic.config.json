@@ -1,0 +1,7 @@
+{
+  "name": "p2_mercado",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
